@@ -1,8 +1,8 @@
-# To-Do List Application
+#To-Do List Application
 
 A modern and user-friendly To-Do List application with both Command Line Interface (CLI) and Graphical User Interface (GUI) versions. This application helps you manage your tasks efficiently with features like categories, priorities, and due dates.
 
-![To-Do List Application](screenshot.png)
+![To-Do List Application](image.png)
 
 ## Features
 
@@ -25,7 +25,7 @@ A modern and user-friendly To-Do List application with both Command Line Interfa
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/todo-list.git
+git clone https://github.com/Teertha007/todo-list.git
 cd todo-list
 ```
 
