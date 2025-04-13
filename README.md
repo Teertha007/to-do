@@ -81,7 +81,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Author
-[Your Name]
+Teerthanker Sarker
 
 ## Acknowledgments
 - Thanks to all contributors who have helped this project grow
